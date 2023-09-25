@@ -1,4 +1,4 @@
-### <div align="center"> Привет! 👋 Я Даниил Фролов, начинающий фуллстак/бекенд разработчик 👨‍💻 </div>  
+### <div align="center"> Привет! 👋 Я Даниил Фролов, начинающий fullstack/backend разработчик 👨‍💻 </div>  
   
 
 - 📚 Я недавно закончил [цифровую кафедру](https://github.com/romvano/dc-web-developer-2022) в МГТУ им. Н.Э. Баумана  
@@ -58,6 +58,3 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AliskaXY&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
