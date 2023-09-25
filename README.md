@@ -1,4 +1,4 @@
-### <div align="center"> Привет! 👋 Я Даниил Фролов, начинающий fullstack/backend разработчик 👨‍💻 </div>  
+### <div align="center"> Привет! 👋 Я начинающий fullstack/backend разработчик 👨‍💻 </div>  
   
 
 - 📚 Я недавно закончил [цифровую кафедру](https://github.com/romvano/dc-web-developer-2022) в МГТУ им. Н.Э. Баумана  
@@ -18,7 +18,7 @@
 
 
 
-### Разбираюсь  
+### Основные 
 <div align="center">  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -29,7 +29,7 @@
 
 
 
-### Понимаю  
+### Дополнительные 
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
@@ -43,7 +43,7 @@
 
 
 
-### Имею небольшой опыт  
+### Имею опыт  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
