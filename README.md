@@ -13,7 +13,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Мои навыки  
 <table><tr><td valign="top" width="33%">
 
 
@@ -55,6 +55,6 @@
 <br/>  
 
 
-## Github Stats  
+## Моя Github статистика
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AliskaXY&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br />
