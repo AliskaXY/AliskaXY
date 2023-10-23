@@ -1,4 +1,4 @@
-### <div align="center"> Привет! 👋 Я начинающий fullstack/backend разработчик 👨‍💻 </div>  
+## <div align="center"> Привет! 👋 Я начинающий fullstack/backend разработчик 👨‍💻 </div>  
   
 
 - 📚 Я недавно окончил [цифровую кафедру](https://github.com/romvano/dc-web-developer-2022) в МГТУ им. Н.Э. Баумана  
@@ -14,8 +14,8 @@
 
 
 
-## Мои навыки  
-<table><tr><td valign="top" width="33%">
+## Мои навыки
+<table align="center"><tr><td align="center" valign="top" width="33%">
 
 
 
@@ -26,7 +26,7 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td align="center" valign="top" width="33%">
 
 
 
@@ -40,7 +40,7 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td align="center" valign="top" width="33%">
 
 
 
@@ -56,6 +56,19 @@
 <br/>  
 
 
-## Моя Github статистика
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AliskaXY&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=AliskaXY&show_icons=true&theme=dark&custom_title=Моя+Github+статистика"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=AliskaXY&show_icons=true&custom_title=Моя+Github+статистика"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=AliskaXY&show_icons=true&custom_title=Моя+Github+статистика" />
+  </picture>
+</div>
+
 <br />
